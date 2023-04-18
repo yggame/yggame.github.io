@@ -13,6 +13,8 @@ University of science and techology of china ([USTC](https://www.ustc.edu.cn/))
 It's my [Github page](https://yggame.github.io/).
 I am very fortunate to be advised by [Prof. Xun Chen](http://staff.ustc.edu.cn/~xunchen/) of X-Lab and [Prof. Aiping Liu](http://leinao.ustc.edu.cn/2021/0430/c25926a483613/page.htm). 
 
+<strong>More details can be found in my [[CV]]({{ site.url }}{{ site.baseurl }}/files/zhedong-resume.pdf). </strong>
+
 [Emial](yg1997@mail.ustc.edu.cn)  /  [Github](https://github.com/yggame) / [Wechat](../images/wechat.jpg) 
 
 ## Research Statement
