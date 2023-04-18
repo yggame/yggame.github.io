@@ -21,7 +21,7 @@ Skills
 * office
 * ...
 
-You can find my CV here: [Gang Yang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Gang Yang's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
 Publications
 ======
