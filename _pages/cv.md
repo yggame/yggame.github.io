@@ -23,7 +23,7 @@ Skills
 
 You can find my CV here: [Gang Yang's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -44,3 +44,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
