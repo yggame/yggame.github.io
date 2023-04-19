@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Model-Guided-Multi-Contrast-Deep-Unfolding-Network-for-MRI-Super-resolution-Reconstruction"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2022-06-01-Model-Guided-Multi-Contrast-Deep-Unfolding-Network-for-MRI-Super-resolution-Reconstruction.md
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2022-10-10
+venue: 'Proceedings of the 30th ACM International Conference on Multimedia'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3503161.3548068'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about Model-Guided-Multi-Contrast-Deep-Unfolding-Network-for-MRI-Super-resolution-Reconstruction.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://dl.acm.org/doi/abs/10.1145/3503161.3548068)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Gang Yang, Li Zhang, Man Zhou, Aiping Liu, Xun Chen, Zhiwei Xiong, Feng Wu. Model-Guided Multi-Contrast Deep Unfolding Network for MRI Super-resolution Reconstruction[C]//Proceedings of the 30th ACM International Conference on Multimedia. 2022: 3974-3982.
