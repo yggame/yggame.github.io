@@ -1,7 +1,7 @@
 ---
 title: "Model-Guided Multi-Contrast Deep Unfolding Network for MRI Super-resolution Reconstruction"
 collection: publications
-permalink: /publication/2022-06-01-Model-Guided-Multi-Contrast-Deep-Unfolding-Network-for-MRI-Super-resolution-Reconstruction.md
+permalink: /publication/2022-10-10-Model-Guided-Multi-Contrast-Deep-Unfolding-Network-for-MRI-Super-resolution-Reconstruction.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-10-10
 venue: 'Proceedings of the 30th ACM International Conference on Multimedia'
