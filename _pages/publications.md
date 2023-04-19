@@ -16,6 +16,17 @@ Publications:  [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019
 
 {% include base_path %}
 
+### 2022
 {% for post in site.publications reversed %}
+  {%if post.pub_year == '2022' %}
   {% include archive-single.html %}
+  {%if post.pub_year == '2022' %}
+{% endfor %}
+
+### 2021
+
+{% for post in site.publications reversed %}
+  {%if post.pub_year == '2021' %}
+  {% include archive-single.html %}
+  {%if post.pub_year == '2021' %}
 {% endfor %}
