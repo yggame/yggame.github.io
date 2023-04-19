@@ -1,7 +1,7 @@
 ---
 title: "Memory-augmented deep conditional unfolding network for pan-sharpening"
 collection: publications
-permalink: /publication/Memory-Augmented-Deep-Conditional-Unfolding-Network-for-Pan-Sharpening
+permalink: /publication/CVPR2022-Memory-Augmented-Deep-Conditional-Unfolding-Network-for-Pan-Sharpening
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-06-01
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
