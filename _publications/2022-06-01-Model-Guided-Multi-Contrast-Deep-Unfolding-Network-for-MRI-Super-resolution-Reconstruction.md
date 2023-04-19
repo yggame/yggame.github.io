@@ -6,6 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-10-10
 venue: 'Proceedings of the 30th ACM International Conference on Multimedia'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3503161.3548068'
+pub_year: '2021'
 ---
 This paper is about Model-Guided Multi-Contrast Deep Unfolding Network for MRI Super-resolution Reconstruction.
 
