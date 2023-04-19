@@ -17,11 +17,13 @@ I am very fortunate to be advised by [Prof. Xun Chen](http://staff.ustc.edu.cn/~
 
 [Emial](yg1997@mail.ustc.edu.cn)  /  [Github](https://github.com/yggame) / [Wechat](../images/wechat.jpg) 
 
-## Research Statement
+Research Statement
+------
 
 My research area is mainly **_medical image analysis_**, including low-level and high-level tasks, such as Super-resolution, Synthesis, Segmentation, etc.
 
-## Others
+Others
+------
 
 - My home is in Lianyuan, Loudi, Hunan.
 - I am currently a Ph.D. in the Department of Electronic Engineering and Information Science, University of Science and Technology of China.
