@@ -1,7 +1,7 @@
 ---
 title: "Normalization-based Feature Selection and Restitution for Pan-sharpening"
 collection: publications
-permalink: /publication/2022-10-10-Normalization-based-Feature-Selection-and-Restitution-for-Pan-sharpening.md
+permalink: /publication/MM22-Normalization-based-Feature-Selection-and-Restitution-for-Pan-sharpening
 excerpt: 'This paper is about Normalization-based Feature Selection and Restitution for Pan-sharpening.'
 date: 2022-10-10
 venue: 'Proceedings of the 30th ACM International Conference on Multimedia'
