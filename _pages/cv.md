@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Si Chuan University, 2015 - 2019
-* M.S. Ph.D and in University of science and technology of china, 2019-now
+* M.S. and Ph.D in University of science and technology of china, 2019-now
 
 Skills
 ======
