@@ -1,7 +1,7 @@
 ---
 title: "Unfolding Taylor's Approximations for Image Restoration"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-12-06-Unfolding-Taylors-Approximations-for-Image-Restoration.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-12-6
 venue: 'Neural Information Processing Systems 34'
