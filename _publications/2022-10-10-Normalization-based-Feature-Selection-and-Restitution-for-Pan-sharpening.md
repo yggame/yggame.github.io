@@ -7,6 +7,7 @@ date: 2022-10-10
 venue: 'Proceedings of the 30th ACM International Conference on Multimedia'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3503161.3547774'
 pub_year: '2022'
+author: 'Man Zhou, Jie Huang, Keyu Yan, <strong>Gang Yang</strong>, Aiping Liu, Chongyi Li, Feng Zhao
 ---
 This paper is about Normalization-based Feature Selection and Restitution for Pan-sharpening.
 
