@@ -21,6 +21,11 @@ Skills
 * office
 * ...
 
+Chinese Patents
+======
+刘爱萍 阳港 陈勋 傅雪阳 吴枫. 一种基于图可逆神经网络的医学图像分割方法. 发明专利 (专利号： 202111282403.6)
+
+
 You can find my CV here: [Gang Yang's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
 <!-- Publications
