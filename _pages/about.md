@@ -19,7 +19,7 @@ I am currently a doctoral student in Department 6 of University of Science and T
 
 It's my [Github page](https://yggame.github.io/).
 
-[Emial](yg1997@mail.ustc.edu.cn)  /  [Github](https://github.com/yggame) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:yg1997@mail.ustc.edu.cn)  /  [Github](https://github.com/yggame) / [Wechat](../images/wechat.jpg) 
 
 Research Statement
 ------
