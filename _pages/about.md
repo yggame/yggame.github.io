@@ -24,7 +24,7 @@ It's my [Github page](https://yggame.github.io/).
 Research Statement
 ------
 
-My research area is mainly **_medical image analysis_**, including low-level and high-level tasks, such as Super-resolution, Synthesis, Segmentation, etc.
+My research area is mainly **_medical image processing_**, including low-level and high-level tasks, such as Super-resolution, Synthesis, Segmentation, etc.
 
 Others
 ------
