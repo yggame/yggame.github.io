@@ -15,7 +15,7 @@ I am currently a doctoral student in Department 6 of University of Science and T
 
 **2015-2019** I received my Bachelor’s degree from Sichuan University in 2019.
 
-<strong>More details can be found in my [[CV]]({{ site.url }}{{ site.baseurl }}/files/Curriculum_Vitae.pdf). </strong>
+<strong>More details can be found in my [[CV]]({{ site.url }}{{ site.baseurl }}/files/Curriculum_Vitae.pdf) ([[CV(en)]]({{ site.url }}{{ site.baseurl }}/files/Curriculum_Vitae_en.pdf)). </strong>
 
 It's my [Github page](https://yggame.github.io/).
 
