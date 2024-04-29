@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I'm Gang Yang.  
-I am currently a doctoral student in Department 6 of University of Science and Technology of China([USTC](https://www.ustc.edu.cn/)), and my supervisors are Professor [Professor Xun Chen](http://staff.ustc.edu.cn/~xunchen/) of X-Lab and [Associate Professor Aiping Liu](http://leinao.ustc.edu.cn/2021/0430/c25926a483613/page.htm). 
+I am currently a Ph.D. student at the Department 6 of the University of Science and Technology of China.([USTC](https://www.ustc.edu.cn/)), and my supervisors are Professor [Professor Xun Chen](http://staff.ustc.edu.cn/~xunchen/) of X-Lab and [Associate Professor Aiping Liu](http://leinao.ustc.edu.cn/2021/0430/c25926a483613/page.htm). 
 
 **2019-2022** I am very fortunate to be advised by [Professor Feng Wu](https://eeis.ustc.edu.cn/2014/0423/c2648a20109/page.htm) and [Associate Professor Aiping Liu](http://leinao.ustc.edu.cn/2021/0430/c25926a483613/page.htm) during the first few years of my master's degree at USTC.
 
