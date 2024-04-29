@@ -13,4 +13,4 @@ This paper is about PanFlowNet_A Flow-Based-Deep-Network-for-Pan-sharpening.
 
 [Download paper here](https://arxiv.org/abs/2305.07774)
 
-Recommended citation: Gang Yang, , Xaingyong Cao, Wenzhe Xiao, Man Zhou, Aiping Liu, Xun Chen, Deyu Meng. PanFlowNet: A Flow-Based Deep Network for Pan-sharpening[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV). 2023.
+Recommended citation: Gang Yang, Xaingyong Cao, Wenzhe Xiao, Man Zhou, Aiping Liu, Xun Chen, Deyu Meng. PanFlowNet: A Flow-Based Deep Network for Pan-sharpening[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV). 2023.
