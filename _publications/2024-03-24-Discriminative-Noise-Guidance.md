@@ -9,7 +9,7 @@ paperurl: '[paperurl](https://ojs.aaai.org/index.php/AAAI/article/view/28608)'
 pub_year: '2024'
 author: 'Jiaying Zhu, Dong Li, Xueyang Fu, <strong><a class="author">Gang Yang</a></strong>, Jie Huang, Aiping Liu, Zheng-Jun Zha'
 ---
-This paper is about Learning Discriminative Noise Guidance for Image Forgery Detection and Localization.
+This paper is about Learning Discriminative Noise Guidance for Image Forgery Detection and Localization. 
 
 [Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/28608)
 
