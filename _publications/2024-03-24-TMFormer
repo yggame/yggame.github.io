@@ -1,1 +1,16 @@
+---
+title: "TMFormer: Token Merging Transformer for Brain Tumor Segmentation with Missing Modalities"
+collection: publications
+permalink: /publication/AAAI2024-TMFormer_Token Merging Transformer for Brain Tumor Segmentation with Missing Modalities
+excerpt: 'This paper is about TMFormer: Token Merging Transformer for Brain Tumor Segmentation with Missing Modalities.'
+date: 2023-12-01
+venue: 'ICSMD'
+paperurl: '[paperurl](https://ojs.aaai.org/index.php/AAAI/article/view/28572)'
+pub_year: '2023'
+author: 'Zheyu Zhang, <strong><a class="author">Gang Yang</a></strong>, Yueyi Zhang, Huanjing Yue, Aiping Liu, Yunwei Ou, Jian Gong, Xiaoyan Sun'
+---
+This paper is about TMFormer: Token Merging Transformer for Brain Tumor Segmentation with Missing Modalities.
 
+[Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/28572)
+
+Recommended citation: Zheyu Zhang, Gang Yang, Yueyi Zhang, Huanjing Yue, Aiping Liu, Yunwei Ou, Jian Gong, Xiaoyan Sun. TMFormer: Token Merging Transformer for Brain Tumor Segmentation with Missing Modalities[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 38(7): 7414-7422.
