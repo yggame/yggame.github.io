@@ -12,6 +12,20 @@
   {% assign title = post.title %}
 {% endif %}
 
+<head> 
+	<style>
+		.author {
+			text-decoration: none !important;
+			color: #333333;
+		}
+
+		.author:hover {
+			text-decoration: underline;
+			color: #0066cc;
+		}
+	</style>
+</head>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
