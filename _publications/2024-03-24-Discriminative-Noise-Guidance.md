@@ -5,7 +5,7 @@ permalink: /publication/AAAI2024-Learning Discriminative Noise Guidance for Imag
 excerpt: 'This paper is about Learning Discriminative Noise Guidance for Image Forgery Detection and Localization.'
 date: 2024-03-24
 venue: 'AAAI'
-paperurl: '[paperurl](https://ojs.aaai.org/index.php/AAAI/article/view/28608)'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/28608'
 pub_year: '2024'
 author: 'Jiaying Zhu, Dong Li, Xueyang Fu, <strong><a class="author">Gang Yang</a></strong>, Jie Huang, Aiping Liu, Zheng-Jun Zha'
 ---
