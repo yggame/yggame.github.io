@@ -6,7 +6,7 @@ excerpt: 'This paper is about SFE-Net: Spatial-frequency enhancement network for
 date: 2024-02-22
 venue: 'CiBM'
 paperurl: '[paperurl](https://ieeexplore.ieee.org/abstract/document/10490868)'
-pub_year: '2024'
+pub_year: "2024"
 author: 'Jinsha Chen, <strong><a class="author">Gang Yang</a></strong>, Aiping Liu, Xun Chen, Ji Liu'
 ---
 This paper is about SFE-Net: Spatial-frequency enhancement network for robust nuclei segmentation in histopathology images.
