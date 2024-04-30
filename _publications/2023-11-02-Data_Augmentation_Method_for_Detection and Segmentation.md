@@ -5,7 +5,7 @@ permalink: /publication/ICSMD2023-A Data Augmentation Method Based on Multi-Moda
 excerpt: 'This paper is about A Data Augmentation Method Based on Multi-Modal Image Fusion for Detection and Segmentation.'
 date: 2023-12-01
 venue: 'ICSMD'
-paperurl: '[paperurl](https://ieeexplore.ieee.org/abstract/document/10490868)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10490868'
 pub_year: '2023'
 author: 'Jing Zhang, <strong><a class="author">Gang Yang</a></strong>, Aiping Liu, Xun Chen'
 ---
