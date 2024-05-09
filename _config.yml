@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gang Yang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Gang Yang"
 description              : &description "Ph.D candidate at University of Science and Technology of China"
