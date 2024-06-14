@@ -1,7 +1,7 @@
 ---
 title: "PanFlowNet: A Flow-Based Deep Network for Pan-sharpening"
 collection: publications
-permalink: /publication/ICCV2023-PanFlowNet_A Flow-Based-Deep-Network-for-Pan-sharpening
+permalink: PanFlowNet
 excerpt: 'This paper is about PanFlowNet: A Flow-Based Deep Network for Pan-sharpening.'
 date: 2023-07-14
 venue: 'ICCV'
