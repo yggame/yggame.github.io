@@ -21,8 +21,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "PaperReading"
-    url: /PaperReading/
+  - title: "PaperReadings"
+    url: /PaperReadings/
   
   - title: "MyArxiv"
     url: /MyArxiv/
