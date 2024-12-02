@@ -6,7 +6,7 @@ excerpt: 'This paper is about SIMFusion: A semantic information-guided modality-
 date: 2024-12-01
 venue: 'KBS2024'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1566253524003385' 
-pub_year: '2023'
+pub_year: '2024'
 author: ' Xiaowen Zhang, Aiping Liu, <strong><a class="author">Gang Yang</a></strong>, Yu Liu, Xun Chen'
 ---
 This paper is about SIMFusion: A semantic information-guided modality-specific fusion network for MR Images.
