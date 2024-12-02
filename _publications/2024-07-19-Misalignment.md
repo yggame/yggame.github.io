@@ -6,7 +6,7 @@ excerpt: 'This paper is about Misalignment-Resistant Deep Unfolding Network for 
 date: 2024-07-19
 venue: 'KBS2024'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0950705124005008' 
-pub_year: '2023'
+pub_year: '2024'
 author: 'Jinbao Wei, <strong><a class="author">Gang Yang</a></strong>, Zhijie Wang, Yu Liu, Aiping Liu, Xun Chen'
 ---
 This paper is about Misalignment-Resistant Deep Unfolding Network for multi-modal MRI super-resolution and reconstruction.
