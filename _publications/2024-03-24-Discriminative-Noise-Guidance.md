@@ -1,7 +1,7 @@
 ---
 title: "Learning Discriminative Noise Guidance for Image Forgery Detection and Localization"
 collection: publications
-permalink: /publication/AAAI2024-Learning Discriminative Noise Guidance for Image Forgery Detection and Localization 
+permalink: /publication/AAAI2024-LearningDiscriminative
 excerpt: 'This paper is about Learning Discriminative Noise Guidance for Image Forgery Detection and Localization.'
 date: 2024-03-24
 venue: 'AAAI'
