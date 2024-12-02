@@ -6,7 +6,7 @@ excerpt: 'This paper is about Transition-constant normalization for image enhanc
 date: 2024-02-13
 venue: 'NeurIPS2024'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/4163873c9ad623a87989d0a6eefe9442-Abstract-Conference.html' 
-pub_year: '2023'
+pub_year: '2024'
 author: 'Jie Huang, Jinghao Zhang, <strong><a class="author">Gang Yang</a></strong>, Mingde Yao, Chongyi Li, Zhiwei Xiong, Feng Zhao'
 ---
 This paper is about Transition-constant normalization for image enhancement.
