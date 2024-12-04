@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 💼 Hi! I'm Gang Yang.  
-I am currently a Ph.D. student at the Department of Electronic Engineering and Information Science, School of Information Science and Technology, University of Science and Technology of China.([USTC](https://www.ustc.edu.cn/)), and my supervisors are Professor [Xun Chen](http://staff.ustc.edu.cn/~xunchen/) of X-Lab and Associate Professor [Aiping Liu](http://leinao.ustc.edu.cn/2021/0430/c25926a483613/page.htm). 
+I am currently a Ph.D. student at the Department of Electronic Engineering and Information Science, School of Information Science and Technology, University of Science and Technology of China.([USTC](https://www.ustc.edu.cn/)), and my supervisors are Prof. [Xun Chen](http://staff.ustc.edu.cn/~xunchen/) of X-Lab and A/Prof. [Aiping Liu](http://leinao.ustc.edu.cn/2021/0430/c25926a483613/page.htm). 
 
-**2019-2022** I am very fortunate to be advised by [Professor Feng Wu](https://eeis.ustc.edu.cn/2014/0423/c2648a20109/page.htm) and [Associate Professor Aiping Liu](http://leinao.ustc.edu.cn/2021/0430/c25926a483613/page.htm) during the first few years of my master's degree at USTC.
-
+**2019-2022** I am very fortunate to be advised by Prof. [Feng Wu](https://eeis.ustc.edu.cn/2014/0423/c2648a20109/page.htm) and A/Prof. [Aiping Liu](http://leinao.ustc.edu.cn/2021/0430/c25926a483613/page.htm) during the first few years of my master's degree at USTC.
+ 
 **2015-2019** I received my Bachelor’s degree from Sichuan University in 2019.
 
 <strong>More details can be found in my [[CV]]({{ site.url }}{{ site.baseurl }}/files/Curriculum_Vitae.pdf) ([[CV(en)]]({{ site.url }}{{ site.baseurl }}/files/Curriculum_Vitae_en.pdf)). </strong>
